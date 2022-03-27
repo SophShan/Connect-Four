@@ -1,5 +1,3 @@
-//Sophia Shantharupan
-//November 9, 2020
 //Runs two-player or one-player game of connect four.
 import java.awt.Color;//imports class to change colour of GUI elements
 import javax.swing.JOptionPane; //imports class to display different panes in GUI
